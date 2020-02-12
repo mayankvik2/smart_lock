@@ -7,14 +7,13 @@
 <a href="https://github.com/jovotech/jovo-cli"><strong>CLI </strong></a> - <a href="https://github.com/jovotech/jovo-framework-nodejs/blob/master/CONTRIBUTING.md"><strong>Contributing</strong></a> - <a href="https://twitter.com/jovotech"><strong>Twitter</strong></a></p>
 <br/>
 
-# Template: Hello World
-
-Jovo Sample Voice App with a simple "Hello World!" + asking for the user's name. This is the default template for the `jovo new` command:
+# Commands: Ask alexa and google assistant 
 
 ```sh
-$ jovo new <directory>
-
-## Alternative
-$ jovo new <directory> --template helloworld
+"Okay Google/Alexa, ask smart lock to list my locks."
+"Okay Google/Alexa, ask smart lock to check the status of my front door."
+"Okay Google/Alexa, ask smart lock to lock my front door."
+"Okay Google/Alexa, ask smart lock to unlock my front door."
+"Okay Google/Alexa, ask smart lock to add a new lock."
 ```
 
